@@ -24,7 +24,7 @@ email: afrozchakure@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog where I write about technology, productivity, books and life. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # "https://interactivegeneration.tech" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://interactivegeneration.tech" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  afrozchakure
 linkedin_username: afrozchakure
 
