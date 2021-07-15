@@ -15,6 +15,8 @@ Feel free to connect with me through mail or LinkedIn. I may take a while to rep
 
 ## Why the name Interactive Generation?
 
+A little story ... 
+
 I had always been a big fan of flash-based games and I remember playing them almost every day when I was a kid. Back in 2008 when the internet was still slow (and I mean really slow!), I got my first computer which was an LG Pentium dual-core system having 1 GB ram with Windows Vista installed 😬 (later I installed XP, so no worries there XD ), the only games that you could play on it were flash-based and a few low spec ones. One of the CD games, I had bought that same year contained a demo version of a game by an English indie Game developer named [Mat Dickie][mdickie] popularly known as "mdickie". The game although a demo was quite enjoyable and I might have played it for 3 years straight. 
 
 Later in 2011, I got my first internet connection through a 2G dongle from Reliance (the speed was shitty). Anyways, I was able to find his site through a google search and able to download the full version of the game (which is quite remarkable considering the internet speeds at that time). His games although not as polished as those made by THQ Inc. were quite advanced for their age and not only that the game felt real with great storylines and graphics. 
@@ -24,13 +26,15 @@ By then he had retired from making games in 2009 and had released a book called 
 Again this comes back to what I said in beginning, `People can create value doing simple things in effective ways`.
 
 ## My Background
-I have a Bachelor of Technology degree in Computer Science and Engineering from MIT World Peace University, Pune (Formerly MIT, Pune), and have worked for a few startups as an intern. If you want to hire me, please refer to my portfolio site [here][portfolio]. I'm open to working in Pune and would be happy to work remotely as well. Just don't send me dumb roles. 
+I have a Bachelor of Technology degree in Computer Science and Engineering from MIT World Peace University, Pune (Formerly MIT, Pune), and have worked for a few startups as an intern. If you want to hire me, please refer to my portfolio site [here][portfolio]. I'm open to working in Pune and would be happy to work remotely as well. 
+
+Cheers 😄👍
 
 [wordpress]: https://hardtasksin.wordpress.com/
 [hackernoon]: https://hackernoon.com/@afroz-chakure
 [medium]: https://medium.com/@afrozchakure
 [gfg]: https://www.geeksforgeeks.org/introduction-to-docker/
 [mdickie]: https://en.wikipedia.org/wiki/Mat_Dickie
-[portfolio]: https://afrozchakure.github.io/
+[portfolio]: https://afrozchakure.tech
 [wrevolution]: https://play.google.com/store/apps/details?id=air.WR3DFree&hl=en_IN&gl=US
 [feedly]: https://feedly.com/
