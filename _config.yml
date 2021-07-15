@@ -22,7 +22,7 @@ title: Interactive Generation 📱💻
 author: Made with ❤️ by Afroz Chakure
 email: afrozchakure@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  My personal blog where I write about technology, productivity, books and life. 
+  My personal blog where I write about Technology, Productivity, Books and Life. 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://interactivegeneration.tech" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  afrozchakure
