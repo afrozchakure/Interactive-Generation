@@ -23,7 +23,7 @@ Later in 2011, I got my first internet connection through a 2G dongle from Relia
 
 By then he had retired from making games in 2009 and had released a book called `"Inspiration for the Interactive Generation"`. The idea for the blog's title came from the book. This being a technology and productivity blog, the title seemed to fit, and lets be honest I'm a big fan of that guy. He came out of retirement in 2012 and has been making games ever since. Most notably his game [Wrestling Revolution 3D][wrevolution] released that year has been downloaded more than 100 million times on Play Store and is considered the No. 1 Mobile Wrestling Game ever beating games build by giants like WWE. It is quite remarkable that a single person can achieve such a feat when a multi-billion dollar public company cannot. 
 
-Again this comes back to what I said in beginning, `People can create value doing simple things in effective ways`.
+Again this comes back to what I said in beginning, `People can create value by doing simple things in effective ways`.
 
 ## My Background
 I have a Bachelor of Technology degree in Computer Science and Engineering from MIT World Peace University, Pune (Formerly MIT, Pune), and have worked for a few startups as an intern. If you want to hire me, please refer to my portfolio site [here][portfolio]. I'm open to working in Pune and would be happy to work remotely as well. 
