@@ -1,5 +1,5 @@
 ---
-title:  "How to read any topic, lesson, book, or anything thoroughly? What's the right approach?"
+title:  "How to read any topic, lesson, or a book thoroughly? 📚"
 date:   2018-11-02 16:16:11 +0530
 author: Afroz Chakure
 categories: books 

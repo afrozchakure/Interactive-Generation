@@ -1,5 +1,5 @@
 ---
-title:  "You need just 20 hours to learn almost anything!"
+title:  "You need just 20 hours to learn almost anything! ⏱️"
 date:   2021-07-13 16:16:11 +0530
 author: Afroz Chakure
 categories: productivity 
