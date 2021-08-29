@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About this Blog
+title: About the blog
 permalink: /about/
 ---
 
@@ -17,18 +17,20 @@ Feel free to connect with me through mail or LinkedIn. I may take a while to rep
 
 A little story ... 
 
-I had always been a big fan of flash-based games and I remember playing them almost every day when I was a kid. Back in 2008 when the internet was still slow (and I mean really slow!), I got my first computer which was an LG Pentium dual-core system having 1 GB ram with Windows Vista installed 😬 (later I installed XP, so no worries there XD ), the only games that you could play on it were flash-based and a few low spec ones. One of the CD games, I had bought that same year contained a demo version of a game by an English indie Game developer named [Mat Dickie][mdickie] popularly known as "mdickie". The game although a demo was quite enjoyable and I might have played it for 3 years straight. 
+I had always been a big fan of flash-based games and I remember playing them almost every day when I was a kid. Back in 2008, I got my first computer which was an LG Pentium dual-core system having 1 GB ram with Windows Vista installed 😬 (later I installed XP, so no worries there XD ), the only games that you could play on it were flash-based and a few low spec ones. One of the CD games, I had bought that same year contained a demo version of a game by an English indie Game developer named [Mat Dickie][mdickie] popularly known as "mdickie". The game although a demo was quite enjoyable and I might have played it for 3 years straight. 
 
 Later in 2011, I got my first internet connection through a 2G dongle from Reliance (the speed was shitty). Anyways, I was able to find his site through a google search and able to download the full version of the game (which is quite remarkable considering the internet speeds at that time). His games although not as polished as those made by THQ Inc. were quite advanced for their age and not only that the game felt real with great storylines and graphics. 
 
-By then he had retired from making games in 2009 and had released a book called `"Inspiration for the Interactive Generation"`. The idea for the blog's title came from the book. This being a technology and productivity blog, the title seemed to fit, and lets be honest I'm a big fan of that guy. He came out of retirement in 2012 and has been making games ever since. Most notably his game [Wrestling Revolution 3D][wrevolution] released that year has been downloaded more than 100 million times on Play Store and is considered the No. 1 Mobile Wrestling Game ever beating games build by giants like WWE. It is quite remarkable that a single person can achieve such a feat when a multi-billion dollar public company cannot. 
+By then he had retired from making games in 2009 and had released a book called `"Inspiration for the Interactive Generation"`. The idea for the blog's title came from the book. This being a technology and productivity blog, the title seemed to fit, and lets be honest I'm a big fan of that guy. 
 
-Again this comes back to what I said in beginning, `People can create value by doing simple things in effective ways`.
+Mat came out of retirement in 2012 and has been making games ever since. Most notably his game [Wrestling Revolution 3D][wrevolution] released that year has been downloaded more than 100 million times on Play Store and is considered the No. 1 Mobile Wrestling Game ever beating games build by giants like WWE. It is quite remarkable that a single person can achieve such a feat when a multi-billion dollar public company cannot. 
 
-## My Background
-I have a Bachelor of Technology degree in Computer Science and Engineering from MIT World Peace University, Pune (Formerly MIT, Pune), and have worked for a few startups as an intern. If you want to hire me, please refer to my portfolio site [here][portfolio]. I'm open to working in Pune and would be happy to work remotely as well. 
+Again this comes back to what I said in beginning, `Create value by doing simple things in effective ways`.
 
-Cheers 😄👍
+## About me
+I completed my B.Tech. in Computer Science and Engineering from MIT World Peace University, Pune (Formerly Maharashtra Institute of Technology (MIT), Pune), and have worked for a few startups as an intern. If you want to hire me, please refer to my portfolio site [here][portfolio]. I'm open to roles in Pune and would be happy to work remotely as well. 
+
+Thanks for checking out my site. Cheers! 😄👍
 
 [wordpress]: https://hardtasksin.wordpress.com/
 [hackernoon]: https://hackernoon.com/@afroz-chakure

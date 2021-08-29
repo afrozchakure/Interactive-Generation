@@ -1,4 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://interactivegeneration.tech/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interactivegeneration.tech/" rel="alternate" type="text/html" /><updated>2021-07-19T11:35:59+05:30</updated><id>https://interactivegeneration.tech/feed.xml</id><title type="html">Interactive Generation 📱💻</title><subtitle>My personal blog where I write about Technology, Productivity, Books and Life. </subtitle><author><name>Made with ❤️ by Afroz Chakure</name></author><entry><title type="html">You need just 20 hours to learn almost anything!</title><link href="https://interactivegeneration.tech/productivity/2021/07/13/20-hours-to-learn-almost-anything.html" rel="alternate" type="text/html" title="You need just 20 hours to learn almost anything!" /><published>2021-07-13T16:16:11+05:30</published><updated>2021-07-13T16:16:11+05:30</updated><id>https://interactivegeneration.tech/productivity/2021/07/13/20-hours-to-learn-almost-anything</id><content type="html" xml:base="https://interactivegeneration.tech/productivity/2021/07/13/20-hours-to-learn-almost-anything.html">&lt;h3 id=&quot;malcolm-gladwell-and-the-10000-hours-rule&quot;&gt;Malcolm Gladwell and the 10,000 hours rule&lt;/h3&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="https://interactivegeneration.tech/feed.xml" rel="self" type="application/atom+xml" /><link href="https://interactivegeneration.tech/" rel="alternate" type="text/html" /><updated>2021-08-29T17:30:48+05:30</updated><id>https://interactivegeneration.tech/feed.xml</id><title type="html">Interactive Generation 📱💻</title><subtitle>My personal blog where I write about Technology, Productivity, Books and Life. </subtitle><author><name>Made with ❤️ by Afroz Chakure</name></author><entry><title type="html">4 Laws to lead a productive life 🎯</title><link href="https://interactivegeneration.tech/productivity/2021/08/29/4-laws-to-lead-a-productive-life.html" rel="alternate" type="text/html" title="4 Laws to lead a productive life 🎯" /><published>2021-08-29T17:24:11+05:30</published><updated>2021-08-29T17:24:11+05:30</updated><id>https://interactivegeneration.tech/productivity/2021/08/29/4-laws-to-lead-a-productive-life</id><content type="html" xml:base="https://interactivegeneration.tech/productivity/2021/08/29/4-laws-to-lead-a-productive-life.html">&lt;h3 id=&quot;the-famous-laws-of-productivity&quot;&gt;The Famous Laws of Productivity&lt;/h3&gt;
+
+&lt;p&gt;You may have heard about different laws in Physics and Chemistry, but do you know some of the famous laws for increasing productivity. Below I have listed just of few of such laws that can help you lead a productive life.&lt;/p&gt;
+
+&lt;p&gt;A lot of these have been adopted in the world of business and technology to increase sales and productivity for an employee, employer, customer or a Leader. You would find their widespread adoption by UI and UX experts while building mobile and web technologies.&lt;/p&gt;
+
+&lt;h3 id=&quot;1-zeigarnik-effect-&quot;&gt;1. Zeigarnik Effect :&lt;/h3&gt;
+
+&lt;p&gt;The Zeigarnik effect was first stated by Sovient psychologist Dr. Bluma Zeigarnik in 1927.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Our minds quickly forget finished tasks. However, they are programmed to continually interrupt us with reminders of unfinished tasks. These intrusions constitute the Zeigarnik Effect.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Simply put, Zeigarnik Effect is the ability of our brain to remember tasks that we haven’t completed.&lt;/p&gt;
+
+&lt;p&gt;Next time you find your brain constantly bugging you with that incomplete online course, college assignment, or an abandoned web-series, you bet there is Zeigarnik effect at work.&lt;/p&gt;
+
+&lt;h4 id=&quot;use-in-business&quot;&gt;Use in business:&lt;/h4&gt;
+&lt;p&gt;Zeigarnik effect is widely used in creating forms to onboard users faster. The completion bar in an empty form denoting form completion percentage is a good example of Zeigarnik Effect.&lt;/p&gt;
+
+&lt;h3 id=&quot;2-pareto-principle-or-80--20-principle&quot;&gt;2. Pareto principle or 80 / 20 principle:&lt;/h3&gt;
+
+&lt;p&gt;First coined by Italian echonomist Vilfredo Pareto, The Pareto principle states that for many results,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Roughly 80% of consequences come from 20% of causes.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The pareto principle is a key principle in business and technology as it shows the disparity between effort and results.&lt;/p&gt;
+
+&lt;p&gt;Originally the principle was used by Vilfredo to show that 80% of the land in Italy was owned by 20% of the people. The same principle can be used to compare sales’ figures of companies, funding and dissolution of startups, comparing placement records of colleges, salaries of players in sports and so on.&lt;/p&gt;
+
+&lt;h4 id=&quot;use-in-calculating-revenue&quot;&gt;Use in calculating Revenue:&lt;/h4&gt;
+&lt;p&gt;For example: Google makes nearly 80% of its revenues from it Advertising Business (Google Ads) and 20% from its core business. While the priciple may not apply exactly 80-20, for most cases 70-30 or 60-40 is more commonly used.&lt;/p&gt;
+
+&lt;p&gt;Even though Google is known for a lot of its services like Android and Google Cloud, we seem to forget the gazillions of trackers google has put up on the internet along with the trillions of searches it processes every year.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-parkinsons-law&quot;&gt;3. Parkinson’s law:&lt;/h3&gt;
+
+&lt;p&gt;Originally coined by Cyril Parkinson in an essay later reprinted in his book “Parkinson’s Law: The Pursuit of Progress”, the law states that&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Work expands so as to fill the time available for its completion.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ever wondered why you were able to complete an assignment which would have taken months to do research on in a short time?&lt;/p&gt;
+
+&lt;p&gt;The answer is the Parkinson law. It is one of those “Experienced by many, understood by none” situations that faces many of us in our daily lives.&lt;/p&gt;
+
+&lt;h4 id=&quot;use-in-technology&quot;&gt;Use in technology:&lt;/h4&gt;
+
+&lt;p&gt;Parkinson’s law is popularly applied in computer industry, For example:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Data expands to fill the space or storage available,&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The above seems obvious considering all the useless data software companies fill up their data centers with. It is an important law which explains why a lot of times human beings work significantly better as they approach a deadline.&lt;/p&gt;
+
+&lt;h3 id=&quot;4-murphys-law&quot;&gt;4. Murphy’s Law:&lt;/h3&gt;
+
+&lt;p&gt;Ever wondered why your Chemistry teacher said to always prepare for the worst in a chemical reaction. He probably wanted to refer to the Murphy’s Law. Murphy’s law states that&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Everything that can go wrong, will go wrong.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Formula One drivers, Olympic athletes, Entrepreneurs and even Political Parties know the importance of Murphy’s Law. Although the goal is to win every battle, sometimes it is much better to “Expect the best but Prepare for the worst!”.&lt;/p&gt;
+
+&lt;p&gt;By preparing for things that can go wrong, you are actually preparing yourself not to lose.&lt;/p&gt;
+
+&lt;p&gt;There is a story about Bill Gates quoted in the book “Great By Choice” by author Jim Collins. It is said that Bill used to keep a picture of Henry Ford (founder of Ford Motors) in his office while he was working on building Microsoft. The picture was meant to remind him what had happened to Ford Motors after the demise of his founder, it symbolized that even a great company can go haywire and end up in disaster. One of Bill Gates’s goal was to prevent such a disaster from happening while building Microsoft.&lt;/p&gt;
+
+&lt;p&gt;It is often misunderstood by people that success requires taking &lt;strong&gt;big risks&lt;/strong&gt; and &lt;strong&gt;big bets&lt;/strong&gt;, but actually most successful founders are actually people who at some point in their lives were &lt;strong&gt;afraid to lose everything they ever owned&lt;/strong&gt; and often took steps to prevent such a thing from happening that involved taking &lt;strong&gt;calculated risks&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;
+So here you go folks, you now know more than I knew a year ago. Laws can be funny and can often teach us a lot about why some of us do the things that we do. They remind us of the fallacies of the human mind and guide us to utilize these flaws to the best of our ability.&lt;/p&gt;
+
+&lt;p&gt;These Laws are amazing when used appropriately to bring out the best in a human being. Being deliberate and conscious with everything we do is important when applying these things to our daily lives. Now go on and try to make your life more productive than ever before.&lt;/p&gt;</content><author><name>Afroz Chakure</name></author><category term="productivity" /><summary type="html">The Famous Laws of Productivity</summary></entry><entry><title type="html">You need just 20 hours to learn almost anything! ⏱️</title><link href="https://interactivegeneration.tech/productivity/2021/07/13/20-hours-to-learn-almost-anything.html" rel="alternate" type="text/html" title="You need just 20 hours to learn almost anything! ⏱️" /><published>2021-07-13T16:16:11+05:30</published><updated>2021-07-13T16:16:11+05:30</updated><id>https://interactivegeneration.tech/productivity/2021/07/13/20-hours-to-learn-almost-anything</id><content type="html" xml:base="https://interactivegeneration.tech/productivity/2021/07/13/20-hours-to-learn-almost-anything.html">&lt;h3 id=&quot;malcolm-gladwell-and-the-10000-hours-rule&quot;&gt;Malcolm Gladwell and the 10,000 hours rule&lt;/h3&gt;
 &lt;p&gt;There is a famous rule that you may have heard a lot whenever someone is talking about learning anything, it’s called the 10,000 hours rule. The rule is famously mentioned by author &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Malcolm Gladwell&lt;/code&gt; in his book, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Outliers: The Story of Success&lt;/code&gt;. The book emphasized the fact that a person needs &lt;strong&gt;at least 10,000 hours of deliberate practice to become an expert at anything&lt;/strong&gt;. This means considering a person spends at least 5 hours every day to learn anything new, it would take a person 10 years!! to become a master of his / her craft.&lt;/p&gt;
 
 &lt;p&gt;The book includes examples of Sun Microsystems co-founder Bill Joy (sometimes dubbed as “The Edison of the internet”), Mozart (the famous Austrian composer, widely regarded as a child prodigy during his time), The Beatles (the Popular English rock band), Microsoft co-founder Bill Gates, Hockey, and soccer players and emphasizes deliberate practice as one of the reasons for their success among other things.&lt;/p&gt;
@@ -40,27 +121,33 @@
 
 &lt;p&gt;By following the above 4 steps, you can be sure to learn anything through deliberate practice and effort. Now that you have learned everything about the 20-hour rule, you can start using it to learn anything.&lt;/p&gt;
 
-&lt;p&gt;Happy productivity!&lt;/p&gt;</content><author><name>Afroz Chakure</name></author><category term="productivity" /><summary type="html">Malcolm Gladwell and the 10,000 hours rule There is a famous rule that you may have heard a lot whenever someone is talking about learning anything, it’s called the 10,000 hours rule. The rule is famously mentioned by author Malcolm Gladwell in his book, Outliers: The Story of Success. The book emphasized the fact that a person needs at least 10,000 hours of deliberate practice to become an expert at anything. This means considering a person spends at least 5 hours every day to learn anything new, it would take a person 10 years!! to become a master of his / her craft.</summary></entry><entry><title type="html">Ideas to Lead a productive life</title><link href="https://interactivegeneration.tech/productivity/2021/07/13/ideas-to-lead-a-productive-life.html" rel="alternate" type="text/html" title="Ideas to Lead a productive life" /><published>2021-07-13T16:16:11+05:30</published><updated>2021-07-13T16:16:11+05:30</updated><id>https://interactivegeneration.tech/productivity/2021/07/13/ideas-to-lead-a-productive-life</id><content type="html" xml:base="https://interactivegeneration.tech/productivity/2021/07/13/ideas-to-lead-a-productive-life.html">&lt;h3 id=&quot;the-laws-of-productivity&quot;&gt;The Law’s of Productivity&lt;/h3&gt;
+&lt;p&gt;Happy productivity!&lt;/p&gt;</content><author><name>Afroz Chakure</name></author><category term="productivity" /><summary type="html">Malcolm Gladwell and the 10,000 hours rule There is a famous rule that you may have heard a lot whenever someone is talking about learning anything, it’s called the 10,000 hours rule. The rule is famously mentioned by author Malcolm Gladwell in his book, Outliers: The Story of Success. The book emphasized the fact that a person needs at least 10,000 hours of deliberate practice to become an expert at anything. This means considering a person spends at least 5 hours every day to learn anything new, it would take a person 10 years!! to become a master of his / her craft.</summary></entry><entry><title type="html">How to read any topic, lesson, or a book thoroughly? 📚</title><link href="https://interactivegeneration.tech/books/2018/11/02/how-to-read-a-topic-lesson-or-book-thoroughly.html" rel="alternate" type="text/html" title="How to read any topic, lesson, or a book thoroughly? 📚" /><published>2018-11-02T16:16:11+05:30</published><updated>2018-11-02T16:16:11+05:30</updated><id>https://interactivegeneration.tech/books/2018/11/02/how-to-read-a-topic-lesson-or-book-thoroughly</id><content type="html" xml:base="https://interactivegeneration.tech/books/2018/11/02/how-to-read-a-topic-lesson-or-book-thoroughly.html">&lt;p&gt;This answer was originally written by me on quora. It has been republished here for easy access.&lt;/p&gt;
 
-&lt;p&gt;You may have heard about different laws in Physics and Chemistry, but do you know some of the famous laws for increasing productivity. Below I have listed just of few of such laws that can help you lead a productive life.&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;A lot of these laws have been adopted in the world of business and technology to increase sales and productivity from an employee or a user. A lot of them have been widely adopted by UI and UX experts  while using mobile and web technologies.&lt;/p&gt;
+&lt;h3 id=&quot;what-is-the-right-approach-to-read-a-topic-lesson-or-a-book&quot;&gt;&lt;strong&gt;What is the right approach to read a topic, lesson or a book?&lt;/strong&gt;&lt;/h3&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Zeigarnik Effect :&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Pareto principle or the 80 / 20 principle:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Parkinson’s law:&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Murphy’s Law: Everything that can go wrong will.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Yhprum’s law: Opposite of Murphy’s law, Everything that can work, will work&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;/li&gt;
-&lt;/ol&gt;</content><author><name>Afroz Chakure</name></author><category term="productivity" /><summary type="html">The Law’s of Productivity</summary></entry></feed>
+&lt;h4 id=&quot;step-1-skimming&quot;&gt;&lt;strong&gt;Step 1. Skimming&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;First always try to skim through a book before actually reading it. By skimming I mean, see things like index, chapter names and have a brief look at the contents of each chapter, you could also count the number of pages from each chapter.&lt;/p&gt;
+
+&lt;p&gt;Once you got an overview about the book, the next time when you actually try to read the book line by line, it will feel much more familiar than before.&lt;/p&gt;
+
+&lt;h4 id=&quot;step-2-reading-and-underlining&quot;&gt;&lt;strong&gt;Step 2: Reading and Underlining&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;Also try and keep a pencil by your side while your reading and whenever you feel something is important you could mark it there and then.&lt;/p&gt;
+
+&lt;p&gt;Don’t be afraid to make your books a bit dirty.&lt;/p&gt;
+
+&lt;p&gt;Underlining and marking key points indicate that you have gone through the topic before and it will be much more easier to pick up from where you left the next time.&lt;/p&gt;
+
+&lt;h4 id=&quot;step-3-revising-and-assimilating&quot;&gt;&lt;strong&gt;Step 3: Revising and Assimilating&lt;/strong&gt;&lt;/h4&gt;
+
+&lt;p&gt;Always try to make sure that you properly read the topic thoroughly first time, although you might not understand all the things the author is trying to say, subsequent revisions will further clarify your doubts, so don’t worry.&lt;/p&gt;
+
+&lt;p&gt;And when the next time you sit down to read, always make sure you revise what you read the previous day before starting a new topic. While revising always look for the points you might have highlighted or underlined, this will make your revision a lot more faster and helpful.&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;bonus-step-building-a-reading-habit&quot;&gt;&lt;strong&gt;Bonus Step: Building a Reading habit&lt;/strong&gt;&lt;/h4&gt;
+&lt;p&gt;All said reading a book can really be hard. So try to make it a habit by fixing the number of hours you are going to give to each topic. This will make sure that you are committed to it and eventually it will help to make the process seem flawless.&lt;/p&gt;</content><author><name>Afroz Chakure</name></author><category term="books" /><summary type="html">This answer was originally written by me on quora. It has been republished here for easy access.</summary></entry></feed>
