@@ -40,6 +40,8 @@ disqus:
 # adsense 
 google_ad_client: ca-pub-2185530334138419
 
+google_analytics: UA-182321207-4
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
