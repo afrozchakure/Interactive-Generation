@@ -13,8 +13,11 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+
+minimal_mistakes_skin : "air"
+
 title: Interactive Generation
-subtitle: Afroz Chakure
+subtitle: by Afroz Chakure
 email: aaaanchakure@gmail.com
 description: My personal blog where I write about Technology, Productivity, Books and Life.
 twitter_username: afrozchakure
@@ -99,8 +102,8 @@ author:
     - label: "Stack Overflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/10404589/afroz-chakure"
-    - label: "Razorpay"
-      icon: "fab fa-fw fa-razorpay"
+
+logo: "/assets/images/logo.png"
 
 # Site Footer
 footer:
@@ -128,6 +131,7 @@ footer:
       # url:
 
 defaults:
+  # path
   - scope:
       path: ""
       type: posts
