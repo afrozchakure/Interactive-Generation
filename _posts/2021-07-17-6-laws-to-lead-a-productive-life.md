@@ -1,5 +1,5 @@
 ---
-title:  "4 Laws to lead a productive life 🎯"
+title:  "6 Laws to lead a productive life 🎯"
 date:   2021-08-29 17:24:11 +0530
 author: Afroz Chakure
 categories: productivity 
@@ -72,6 +72,41 @@ By preparing for things that can go wrong, you are actually preparing yourself n
 There is a story about Bill Gates quoted in the book "Great By Choice" by author Jim Collins. It is said that Bill used to keep a picture of Henry Ford (founder of Ford Motors) in his office while he was working on building Microsoft. The picture was meant to remind him what had happened to Ford Motors after the demise of his founder, it symbolized that even a great company can go haywire and end up in disaster. One of Bill Gates's goal was to prevent such a disaster from happening while building Microsoft. 
 
 It is often misunderstood by people that success requires taking **big risks** and **big bets**, but actually most successful founders are actually people who at some point in their lives were **afraid to lose everything they ever owned** and often took steps to prevent such a thing from happening that involved taking **calculated risks**. 
+
+### 5. Hawthorne Effect 
+
+> Hawthorne Effect refers to the change in behavior of individuals that results from their awareness of being observed especially from their Seniors or Supervisors. 
+
+This study was conducted at Hawthorne Works - a Western Electric plant in Cicero, Illinois from the 1920s to 1930s. The goal of the study was to check for the impact of changes in Lighting and different work structures like duration of breaks & working hours on employee productivity. 
+
+The results from the study showed that workers showed great productivity improvements regardless of good or bad lighting during the study. But their productivity slipped after the study was over. The study measuring productivity due to changes in working hours & breaks of workers gave in similar results.
+
+The researchers later concluded that workers were responding to the direct attention they were getting from being observed by the researchers & Supervisors during the study and not to the environmental changes. 
+
+#### Hawthorne Effect in modern life: 
+
+How often does it happen to us that when we are being observed (held accountable), we exceed our expectations? We all remember that one good teacher at School who paid attention to you, even when you were not doing well and at least out of his/her fear, you performed well in their subject. 
+
+Hawthorne Effect even though may have temporary effects but If internalized well can be a useful weapon to accomplish great goals. Like for example, If you want to break a bad habit like spending money on unnecessary things, you can ask your friend to keep you accountable for the same. Studies show that you are more likely to accomplish your goals if you keep yourself accountable to a friend.
+
+### 6. Kaizen Principle 
+
+The word Kaizen is a Japanese word that means "continual improvement". The idea behind Kaizen is to make small improvements every day throughout the day. 
+
+Some of the more famous Kaizen techniques were initially developed by Toyota, the famous Japanese automobile manufacturer. These techniques include the famous 5S technique for manufacturing (Sort, Shine, Shine, Standardize and Sustain) and Kanban boards which are used in almost every industry today. 
+
+Kaizen includes 4 main principles: 
+1. Visualize 
+2. Measure 
+3. Improve 
+4. Repeat 
+
+The basic idea behind Kaizen is to keep improving every day, even if the improvements are small initially. Eventually, the small improvements add up and you end up becoming a better version of yourself. 
+
+*For example:* 
+
+Trying to get better at writing or speaking is a gradual process and requires regular practice. You aren't going to get better at them in one go, they will require small wins initially, and eventually, you'll get better at it. The important thing is to stick with it and trust the process. Giving 15-20 minutes to regular deliberate practice can work wonders when it comes to Kaizen Principle. 
+
 
 --- 
 ---

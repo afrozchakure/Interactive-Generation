@@ -1,6 +1,6 @@
 ---
 layout: page
-title: My Bookshelf
+title: My Bookshelf 
 permalink: /books/
 ---
 
