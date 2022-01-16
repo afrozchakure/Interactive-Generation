@@ -2,6 +2,7 @@
 layout: single
 title: My Bookshelf 
 permalink: /books/
+author_profile: true
 ---
 
 Here's a list of books that have helped me over the years. This list is for me to keep track of what I've read and what I'm reading, so these are not recommendations in any way. 

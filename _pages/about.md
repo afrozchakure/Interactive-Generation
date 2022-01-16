@@ -1,6 +1,8 @@
 ---
 permalink: /about/
 title: "About the blog"
+layout: single 
+author_profile: true
 ---
 
 My personal blog where I share my insights about technology, productivity, and books. I'm an avid reader and have read most of my share of books during my college days. I'm often fascinated by the value people are able to create by doing simple things in effective ways. I started blogging back in 2017 and posted a few blogs on my [Wordpress][wordpress] site, some of those blogs were later re-published on sites like [Hacker Noon][hackernoon], [Medium][medium], and [GeeksforGeeks][gfg]. 
