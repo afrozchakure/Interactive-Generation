@@ -162,3 +162,7 @@ social:
 #   clippings: all
 #   ignore:
 #     envs: development  # disable compression in dev environment
+
+# disqus: 
+disqus: 
+  shortname: interactivegeneration
