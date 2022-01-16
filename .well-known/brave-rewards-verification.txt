@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: interactivegeneration.tech
+Token: 04820d9e31d631f5e8726ccc119e190c6cdb6794d72e75635c7a81dadd59db6c

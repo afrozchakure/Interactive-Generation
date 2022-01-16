@@ -1,0 +1,168 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: interactive generation
+subtitle: Afroz Chakure
+email: aaaanchakure@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
+twitter_username: afrozchakure
+github_username: afrozchakure
+minimal_mistakes_skin: default
+search: true
+
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          :  UA-182321207-4
+    anonymize_ip         : # true, false (default)
+
+# adsense 
+google_ad_client: ca-pub-2185530334138419
+
+# brave rewards 
+include: [".well-known"]
+
+
+# Build settings
+markdown: kramdown
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: Asia/Calcutta
+
+include:
+  - _pages
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+
+author:
+  name   : "Afroz Chakure"
+  avatar : "/assets/images/profile_photo.jpeg"
+  bio    : "Software Engineer"
+  location: "Pune, Maharashtra, India"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:aaaanchakure@gmail.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://afrozchakure.tech"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/afrozchakure"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/afrozchakure"
+    - label: "Stack Overflow"
+      icon: "fab fa-fw fa-stack-overflow"
+      url: "https://stackoverflow.com/users/10404589/afroz-chakure"
+
+# Site Footer
+footer:
+  links:
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url:
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/afrozchakure"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/afrozchakure"
+    - label: "GitLab"
+      icon: "fab fa-fw fa-gitlab"
+      # url:
+    - label: "Bitbucket"
+      icon: "fab fa-fw fa-bitbucket"
+      # url:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url:
+
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: splash
+      author_profile: true
+      read_time: true
+      comments: true
+      share: true
+      related: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+
+social:
+  type:  Person
+  name:  Afroz Chakure
+  links:
+    - "https://twitter.com/afrozchakure"
+    - "https://www.linkedin.com/in/afrozchakure"
+
+
+# do it after everything is working
+# compress_html:
+#   clippings: all
+#   ignore:
+#     envs: development  # disable compression in dev environment
