@@ -13,13 +13,10 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: interactive generation
+title: Interactive Generation
 subtitle: Afroz Chakure
 email: aaaanchakure@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: My personal blog where I write about Technology, Productivity, Books and Life.
 twitter_username: afrozchakure
 github_username: afrozchakure
 minimal_mistakes_skin: default
@@ -102,6 +99,8 @@ author:
     - label: "Stack Overflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/10404589/afroz-chakure"
+    - label: "Razorpay"
+      icon: "fab fa-fw fa-razorpay"
 
 # Site Footer
 footer:
@@ -129,7 +128,6 @@ footer:
       # url:
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
