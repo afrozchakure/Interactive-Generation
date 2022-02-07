@@ -5,12 +5,12 @@ layout: single
 author_profile: true
 ---
 
-My personal blog where I share my insights about technology, productivity, and books. I'm an avid reader and have read most of my share of books during my college days. I'm often fascinated by the value people are able to create by doing simple things in effective ways. I started blogging back in 2017 and posted a few blogs on my [Wordpress][wordpress] site, some of those blogs were later re-published on sites like [Hacker Noon][hackernoon], [Medium][medium], and [GeeksforGeeks][gfg]. 
+My personal blog where I share my insights about technology, productivity, and books. I'm an avid reader and have read most of my share of books during my college days. I am often fascinated by the value people are able to create by doing simple things in effective ways.  
 
 A lot of these blogs have been read by over 200,000 people from around the globe. Although I like publishing on other platforms, I often found it difficult to control the distribution of my content. This website is an attempt to resolve all that. You will find some of my previous content here along with some new ones. 
 
 # About me
-I currently work as a Junior Software Developer at TietoEVRY. I am an alumni of MIT-WPU, Pune and I've have had the opportunity to work with a few startups as an intern during my college days. I have previous experience in conducting Tech webinars and sessions for college students.
+I currently work as a Junior Software Developer at Tietoevry, Pune. I am an alumni of MIT-WPU, Pune and I've have had the opportunity to work with a few startups as an intern during my college days. I have previous experience in conducting Tech webinars and sessions for college students.
 
 If you have a business opportunity or want to hire me , please refer to my resume [here]. I'm open to suitable roles and opportunities in tech.
 
