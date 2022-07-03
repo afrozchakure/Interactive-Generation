@@ -1,3 +1,10 @@
+# Installation and running your Project locally
+
+1. Run 
+``bundle exec jekyll serve``
+
+2. And open  http://127.0.0.1:4000
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
