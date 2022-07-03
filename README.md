@@ -1,9 +1,9 @@
-# Installation 
+# Installation and running your Project locally
 
-Run 
+1. Run 
 ``bundle exec jekyll serve``
 
-And open  http://127.0.0.1:4000
+2. And open  http://127.0.0.1:4000
 
 # Minimal Mistakes remote theme starter
 
