@@ -10,8 +10,6 @@ Here's a list of books that have helped me over the years. This list is for me t
 
 Feel free to reach out if you have any suggestions or comments. Cheers! 
 
-> this is not an updated list :)
-
 1. Fiction: 
     - The Harry Potter series by J.K. Rowling.
     - To Kill a Mockingbird by Harper Lee.

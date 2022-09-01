@@ -168,3 +168,5 @@ social:
 # disqus: 
 disqus: 
   shortname: interactivegeneration
+
+og_image: /assets/images/terminal.jpg
