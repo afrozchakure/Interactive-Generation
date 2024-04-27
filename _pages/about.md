@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 
-My personal blog where I share my insights about technology, productivity, books and life. I'm an avid reader and have read most of my share of books during my college days. I am often fascinated by the value people are able to create by doing simple things in effective ways.  
+My personal blog where I share my insights about technology, productivity, books and life. I'm an avid reader and like to try different things for fun. I am often fascinated by the value people are able to create by doing simple things in effective ways.  
 
 A lot of these blogs have been read by over 0.6 million readers from around the globe and have been written with the hope of adding value to each of my fellow readers.
 

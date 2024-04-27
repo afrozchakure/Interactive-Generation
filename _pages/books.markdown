@@ -10,6 +10,8 @@ Here's a list of books that have helped me over the years. This list is for me t
 
 Feel free to reach out if you have any suggestions or comments. Cheers! 
 
+> Note: This is not an updated list, You can follow me on [GoodReads] to know what I'm reading: 
+
 1. Fiction: 
     - The Harry Potter series by J.K. Rowling.
     - To Kill a Mockingbird by Harper Lee.
@@ -61,3 +63,6 @@ Feel free to reach out if you have any suggestions or comments. Cheers!
     - Sapiens: A Brief History of Humankind by Yuval Noah Harari.
 
 If you have any suggestions for great books, write them down in the comments. Would love to read them. 
+
+
+[GoodReads]: https://www.goodreads.com/user/show/31513610-afroz-chakure
