@@ -24,6 +24,10 @@ twitter_username: afrozchakure
 github_username: afrozchakure
 search: true
 
+repository: "afrozchakure/Interactive-Generation"
+
+date_format: "%Y-%m-%d"
+
 # Analytics
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
@@ -152,6 +156,7 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
 
 category_archive:
   type: liquid
@@ -180,3 +185,9 @@ disqus:
   shortname: interactivegeneration
 
 og_image: /assets/images/terminal.jpg
+
+
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
