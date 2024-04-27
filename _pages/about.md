@@ -5,12 +5,14 @@ layout: single
 author_profile: true
 ---
 
-My personal blog where I share my insights about technology, productivity, and books. I'm an avid reader and have read most of my share of books during my college days. I am often fascinated by the value people are able to create by doing simple things in effective ways.  
+My personal blog where I share my insights about technology, productivity, books and life. I'm an avid reader and have read most of my share of books during my college days. I am often fascinated by the value people are able to create by doing simple things in effective ways.  
 
-A lot of these blogs have been read by over 4,00,000 people from around the globe and have been written with the hope of adding value to each of my fellow readers.
+A lot of these blogs have been read by over 0.6 million readers from around the globe and have been written with the hope of adding value to each of my fellow readers.
 
 # About me
-I currently work as a Full Stack Developer at Tietoevry, Pune. I am an alumni of MIT-WPU, Pune and I've have had the opportunity to work with a startups in Machine Learning and Computer vision during my college days. I have previous experience in conducting Tech webinars and sessions for college students.
+I currently work as a Application Developer 2 at Citi, Pune. Have had previous stints as Full Stack Developer at TietoEvry, Pune and worked with a few startups in Machine Learning and Computer vision during my college days
+
+I am an alumni of MIT-WPU, Pune and have conducted Tech webinars and sessions for college students.
 
 If you have a business opportunity or want to hire me , please refer to my resume [here]. I'm open to suitable roles and opportunities in tech.
 
