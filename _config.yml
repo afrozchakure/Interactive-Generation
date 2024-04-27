@@ -22,7 +22,6 @@ email: aaaanchakure@gmail.com
 description: My personal blog where I write about Technology, Productivity, Books and Life.
 twitter_username: afrozchakure
 github_username: afrozchakure
-minimal_mistakes_skin: default
 search: true
 
 # Analytics
@@ -71,6 +70,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-toc
 
 author:
   name   : "Afroz Chakure"
@@ -97,8 +97,11 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/afrozchakure"
+    - label: "Medium"
+      icon: "fa-brands fa-medium"
+      url: "https://afrozchakure.medium.com"
     - label: "Stack Overflow"
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/10404589/afroz-chakure"
@@ -115,11 +118,17 @@ footer:
       icon: "fab fa-fw fa-facebook-square"
       # url:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa-brands fa-github"
       url: "https://github.com/afrozchakure"
     - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
+      icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/afrozchakure"
+    - label: "Medium"
+      icon: "fa-brands fa-medium"
+      url: "https://afrozchakure.medium.com"
+    - label: "Newsletter"
+      icon: "fa-solid fa-newspaper"
+      url: "https://www.linkedin.com/newsletters/6990987872463949824/"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
@@ -136,12 +145,13 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: splash
+      layout: single
       author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      show_date: true
 
 category_archive:
   type: liquid
