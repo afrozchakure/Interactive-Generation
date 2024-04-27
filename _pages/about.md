@@ -25,7 +25,7 @@ Thanks for checking out my site.
 [medium]: https://medium.com/@afrozchakure
 [gfg]: https://www.geeksforgeeks.org/introduction-to-docker/
 [mdickie]: https://en.wikipedia.org/wiki/Mat_Dickie
-[portfolio]: https://afrozchakure.tech
+[portfolio]: https://afrozchakure.github.io
 [wrevolution]: https://play.google.com/store/apps/details?id=air.WR3DFree&hl=en_IN&gl=US
 [feedly]: https://feedly.com/
 [here]: https://drive.google.com/file/d/1I_7x_vXmXXpczd0SJXCD7v7I39u_IVkb/view?usp=sharing
