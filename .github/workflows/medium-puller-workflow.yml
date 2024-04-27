@@ -30,4 +30,4 @@ jobs:
               git config --global user.name "GitHub Actions"
               git commit -m 'Import blogs from medium'
           fi
-          git push origin main
+          git push origin master
