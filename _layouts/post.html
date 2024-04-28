@@ -1,8 +1,17 @@
-<!– some page content –>
-<header class="post-header">
-   <h1 class="post-title">{{ page.title }}</h1>
+---
+layout: single
+---
+<header class="post-header"   >
+  {% if page.layout == 'post' %}
+  {{ content }}
+  {% endif %}
+  {% if page.layout == 'single' %}
+    <h1 class="post-title">{{ page.title }}</h1>
    {% include page__meta.html %}
-   <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
-   {% if page.author %} • {{ page.author }}{% endif %}
+   {% endif %}
+
+   <!-- <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %-d, %Y" }}</time>
+   {% if page.author %} • {{ page.author }}{% endif %} -->
 </header>
-<!– other page content –>
+
+<!-- other page content -->
