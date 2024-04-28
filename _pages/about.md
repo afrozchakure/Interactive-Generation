@@ -18,7 +18,7 @@ If you have a business opportunity or want to hire me , please refer to my resum
 
 Connect with me on [Linkedin][linkedin] and write to me on [aaaanchakure@gmail.com][aaaanchakure@gmail.com]. 
 
-Thanks for checking out my site.
+Thanks for checking out my site!
 
 [wordpress]: https://hardtasksin.wordpress.com/
 [hackernoon]: https://hackernoon.com/@afroz-chakure
