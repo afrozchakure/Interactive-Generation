@@ -110,7 +110,7 @@ author:
       icon: "fab fa-fw fa-stack-overflow"
       url: "https://stackoverflow.com/users/10404589/afroz-chakure"
 
-logo: "/assets/images/logo.png"
+logo: "/assets/images/ig.png"
 
 # Site Footer
 footer:
@@ -155,7 +155,6 @@ defaults:
       comments: true
       share: true
       show_date: true
-      author: afrozchakure
 
 category_archive:
   type: liquid
@@ -190,3 +189,9 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+
+sass:
+  style: :compressed
+additional_stylesheets:
+  - "/assets/css/custom.css"
